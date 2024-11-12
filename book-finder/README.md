@@ -17,7 +17,8 @@ Welcome to the **Book Finder App**! This app allows users to search for books, v
 
 ## Screenshots
 
-![Homepage](https://via.placeholder.com/600x400)  
+![Homepage](![React App - Google Chrome 12-11-2024 12_54_00](https://github.com/user-attachments/assets/d2fcf3a4-1cef-4e89-98de-ec2cfad8e3fb)
+)  
 *Screenshot of the homepage*
 
 ![Book Details](https://via.placeholder.com/600x400)  
